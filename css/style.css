@@ -1,0 +1,24 @@
+img {
+  width: 100%;
+
+}
+h1 {
+  text-align: center;
+}
+body {
+  margin-top: 5%;
+  margin-left : 10%;
+  margin-right: 10%;
+  background-color: grey;
+}
+#firstdiv, #lastdiv {
+  background-color: white;
+  margin: 10px;
+  box-shadow: 5px 5px 5px;
+}
+nav {
+    box-shadow: 5px 5px 5px;
+}
+[required]{
+  border:1px dotted red;
+}
